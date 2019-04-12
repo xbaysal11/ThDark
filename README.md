@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://forestcom-themesurgeons.netdna-ssl.com/wp-content/uploads/2018/10/tree1-sld.png" alt="logo" width="72" height="72">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black_Arrow_Down.svg/1024px-Black_Arrow_Down.svg.png" alt="logo" width="72" height="72">
 </p>
 
 <h3 align="center">ThDark</h3>
