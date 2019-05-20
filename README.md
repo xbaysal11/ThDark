@@ -8,7 +8,7 @@
      Google Chrome Dark Theme 
 </p>
 
-![logo](https://i.postimg.cc/cL1CS2JP/thd.png)
+![logo](https://i.postimg.cc/gcft1bgk/theme.png)
 
 # Installation
 
